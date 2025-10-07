@@ -10,9 +10,6 @@
 # Dossier de build
 /build/
 
-# Dossier des images/data si tu ne veux pas les partager
-/data/
-
 # Fichiers temporaires et éditeur
 *~
 *.swp
